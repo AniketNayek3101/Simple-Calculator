@@ -1,0 +1,28 @@
+.text-center{
+    text-align: center;
+}
+
+.mx-auto{
+    margin: auto;
+    margin-top: 25vh;
+}
+
+.btn{
+    width: 40px;
+    height: 40px;
+    margin: 3px;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.btn-clr{
+    width:190px;
+    margin-top: 10px;
+}
+/*
+.screen{
+    border: 2px solid black;
+    width: 30px;
+}/*
+
